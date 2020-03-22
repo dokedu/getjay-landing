@@ -27,6 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dokedu
 github_username:  dokedu
 
+plugins:
+  - jekyll-assets
+
+
 # Build settings
 
 # Exclude from processing.
